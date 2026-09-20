@@ -52,7 +52,7 @@ Berikut merupakan diagram kelas dari Sistem Manajemen Jasa Cuci Sepatu:
 
 <img width="1002" height="667" alt="Screenshot 2026-09-20 173920" src="https://github.com/user-attachments/assets/4be45d9b-d984-4d43-962e-14cbbd330d50" />
 
-##📝 Penjelasan Hierarki
+## 📝 Penjelasan Hierarki
 
 Class Layanan merupakan superclass yang menjadi induk dari:
 
@@ -95,7 +95,7 @@ public class CuciExpress extends Layanan {
 ```
 Dengan inheritance, CuciReguler dan CuciExpress dapat menggunakan struktur yang berasal dari class Layanan tanpa harus menuliskan kembali atribut yang sama.
 
-###🖥️ Screenshot Running Program
+### 🖥️ Screenshot Running Program
 ## 🏠 Tampilan Menu Utama
 
 <img width="432" height="391" alt="image" src="https://github.com/user-attachments/assets/9be5133f-554f-4b75-8ba1-e4efdf8ce6a6" />
