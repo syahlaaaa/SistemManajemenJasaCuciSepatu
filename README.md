@@ -41,6 +41,7 @@ Aplikasi menyediakan beberapa menu utama:
 ## 📊 Diagram Kelas / Hierarki Class
 
 Berikut merupakan diagram kelas dari Sistem Manajemen Jasa Cuci Sepatu:
+
 <img width="1002" height="667" alt="image" src="https://github.com/user-attachments/assets/a5d9590f-dfc2-4f9c-a216-7a9392a78a5d" />
 
 ## 🔗 Penerapan Inheritance
